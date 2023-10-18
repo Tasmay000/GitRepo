@@ -1,0 +1,5 @@
+print("Hello World")
+a=input("Enter your Name :")
+print("Welcome To The Future",a)
+b=input("Enter your Birthdate ") 
+print("You are going to be Number 1 soon ")
